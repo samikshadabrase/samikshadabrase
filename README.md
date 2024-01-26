@@ -88,7 +88,4 @@ public class HotelManagementSystem {
         }
     }
 }
-Output:
 
-Find More Projects
-To-Do List image
